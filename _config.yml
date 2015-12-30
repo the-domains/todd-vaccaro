@@ -1,7 +1,7 @@
 name: Todd Vaccaro
 favicon: null
-layout_spectrum: 0.8900167427491397
-typography_spectrum: 0.429033144377172
+layout_spectrum: 1
+typography_spectrum: 0.74561
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9384158807806671
+  brandStrength: 1
   lightness: 0.7865504855290055
-  saturation: 0.794775209389627
-  rhythmicContrast: 0.03849354642443359
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
