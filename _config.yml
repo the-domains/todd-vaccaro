@@ -1,0 +1,28 @@
+name: Todd Vaccaro
+favicon: null
+layout_spectrum: 0.8900167427491397
+typography_spectrum: 0.429033144377172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9384158807806671
+  lightness: 0.7865504855290055
+  saturation: 0.794775209389627
+  rhythmicContrast: 0.03849354642443359
+purpose: []
